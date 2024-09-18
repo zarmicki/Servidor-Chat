@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "mensaje": "Hola, este es mi primer mensaje."
+  },
+  {
+    "id": 2,
+    "nombre": "Maria Lopez",
+    "mensaje": "Estoy aprendiendo sobre APIs REST."
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos García",
+    "mensaje": "¿Alguien tiene experiencia con TypeScript?"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Torres",
+    "mensaje": "Me gusta mucho trabajar con Node.js."
+  },
+  {
+    "id": 5,
+    "nombre": "Luis Fernandez",
+    "mensaje": "Estoy buscando mejorar mis habilidades en backend."
+  },
+  {
+    "id": 6,
+    "nombre": "Sofia Rodriguez",
+    "mensaje": "¿Qué librerías recomiendan para validaciones?"
+  },
+  {
+    "id": 7,
+    "nombre": "Miguel Castillo",
+    "mensaje": "Estoy trabajando en un proyecto de API REST."
+  },
+  {
+    "id": 8,
+    "nombre": "Laura Ramos",
+    "mensaje": "¿Cuál es la mejor manera de manejar errores en APIs?"
+  },
+  {
+    "id": 9,
+    "nombre": "David Ortiz",
+    "mensaje": "Estoy muy interesado en aprender autenticación."
+  },
+  {
+    "id": 10,
+    "nombre": "Valentina Suarez",
+    "mensaje": "He estado usando Postman para probar mis APIs."
+  },
+  {
+    "id": 11,
+    "nombre": "Andres Gomez",
+    "mensaje": "¿Alguien sabe cómo documentar APIs con Swagger?"
+  },
+  {
+    "id": 12,
+    "nombre": "Paula Vega",
+    "mensaje": "La integración con bases de datos es clave para mí."
+  },
+  {
+    "id": 13,
+    "nombre": "Ricardo Diaz",
+    "mensaje": "Estoy experimentando con middleware personalizado."
+  },
+  {
+    "id": 14,
+    "nombre": "Lucia Navarro",
+    "mensaje": "Las rutas dinámicas son algo que me interesa mucho."
+  },
+  {
+    "id": 15,
+    "nombre": "Fernando Arenga",
+    "mensaje": "Estoy buscando consejos sobre seguridad en APIs."
+  }
+]
