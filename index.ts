@@ -11,7 +11,7 @@ server.app.use(bodyParser.json());
 
 server.app.use(
   cors({
-    origin: "https://cliente-socket-unandes.vercel.app",
+    origin: "https://cliente-socket-unandes-taupe.vercel.app",
     credentials: true,
   })
 );
